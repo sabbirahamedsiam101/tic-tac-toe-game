@@ -5,6 +5,14 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
+    position: relative;
+}
+.name{
+    text-transform: capitalize;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-size: 22px;
 }
 
 .container {
